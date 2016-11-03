@@ -1,0 +1,24 @@
+#calendar-container{
+    padding: 60px;
+    width: 500px;
+    height: 440px;
+    text-align: center;
+    background-color: lightgrey;
+    border: 10px solid #73AD21;
+    border-radius: 60px;
+    font-family: "Times New Roman", Times, serif;;
+    font-size: 16px;
+}
+
+#calendar-container>div{
+    padding: 0;
+    margin-bottom: 50px;
+}
+
+#calendar-month-year{
+    margin: 25px;
+}
+
+#calendar-dates>table>tr>td{
+    padding: 25px;
+}
